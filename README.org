@@ -1,0 +1,2 @@
+#+title: Readme
+Odin recipes project readme [[https://www.theodinproject.com/lessons/foundations-recipes][The odin project recipe project]]
